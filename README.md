@@ -1,2 +1,5 @@
 # hello-world
-Bot sound
+Bot Sound 
+Hai saya adalah salah satu bot wahatsapp 
+Silahkan pakai bot dan jangan spam !!!
+
